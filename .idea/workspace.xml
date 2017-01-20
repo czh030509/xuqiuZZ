@@ -1,0 +1,1984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="xq-pachong:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33d56dee-5ce0-4f9d-8f0d-1856fcb16859" name="Default" comment="" />
+    <ignored path="xq-pachong.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="xq-pachong" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="default.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/default.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XQTimeLine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XQTimeLine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+              <folding>
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultContant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/models/DefaultContant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainJob.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/piao/MainJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8722787">
+              <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XQUrlLib.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XQUrlLib.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XueQiuPachong.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XueQiuPachong.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XueQiuJob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XueQiuJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="72" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TGBUrlLib.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/TGBUrlLib.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReplylPageProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/ReplylPageProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="118" selection-start-line="26" selection-start-column="105" selection-end-line="26" selection-end-column="118" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TGBJob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/TGBJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/utils/JacksonUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/HttpClientUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/timeLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UrlLib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/ShowInWindows.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MainJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/ExchangeHtml.java" />
+        <option value="$PROJECT_DIR$/target/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/PropertyUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/MyWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/piao/MainJob2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/AppWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/ui/MyWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/piao/ShowJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/taoguba/ReplyList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/TimeLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/XQTimeLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/SayingComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/XQSayingComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/Saying.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/UrlLib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/XQUrlLib.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/services/weibo/WbJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/weibo/StatusComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/taoguba/ReplylPageProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qunar/piao/MainJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/xueqiu/XqStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/xueqiu/XQTimeLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/xueqiu/XQSayingComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/taoguba/ReplyItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/taoguba/Detail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/taoguba/DetailPageProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/weibo/XLJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/UiDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/ui/TipsWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/base/PropertyUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/base/HttpClientUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/base/Md5Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/weibo/Xlweibo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/taoguba/TGBUrlLib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/xueqiu/XQUrlLib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/ui/AppWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/taoguba/TGBJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/qjb/DetailPageProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/qjb/QjbPageProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/xueqiu/XueQiuJob.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/xueqiu/XueQiuPachong.java" />
+        <option value="$PROJECT_DIR$/src/main/java/models/DefaultContant.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/default.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="xq-pachong" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="xq-pachong" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xueqiu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taoguba" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xq-pachong" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="piao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitQA\xq-pachong\src\main\java\services\qjb" />
+      <recent name="D:\GitQA\xq-pachong\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="services.taoguba" />
+      <recent name="services.xueqiu" />
+      <recent name="services.weibo" />
+      <recent name="com.qunar.piao" />
+      <recent name="models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainJob">
+    <configuration default="false" name="MainJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.qunar.piao.MainJob" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="xq-pachong" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TGBJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="services.taoguba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="services.taoguba.TGBJob" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="xq-pachong" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="XQUrlLib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="services.xueqiu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="services.xueqiu.XQUrlLib" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="xq-pachong" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TGBUrlLib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="services.taoguba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="services.taoguba.TGBUrlLib" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="xq-pachong" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="QjbPageProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="services.qjb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="services.qjb.QjbPageProcessor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="xq-pachong" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TipsWindow" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="models.ui.TipsWindow" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="xq-pachong" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.TipsWindow" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MainJob" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TGBJob" />
+      <item index="3" class="java.lang.String" itemvalue="Application.XQUrlLib" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TGBUrlLib" />
+      <item index="5" class="java.lang.String" itemvalue="Application.QjbPageProcessor" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainJob" />
+        <item index="1" class="java.lang.String" itemvalue="Application.QjbPageProcessor" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TGBUrlLib" />
+        <item index="3" class="java.lang.String" itemvalue="Application.XQUrlLib" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TGBJob" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33d56dee-5ce0-4f9d-8f0d-1856fcb16859" name="Default" comment="" />
+      <created>1480302658324</created>
+      <option name="number" value="Default" />
+      <updated>1480302658324</updated>
+      <workItem from="1480302659881" duration="21826000" />
+      <workItem from="1480334705958" duration="10430000" />
+      <workItem from="1480399057351" duration="509000" />
+      <workItem from="1480473056988" duration="9678000" />
+      <workItem from="1480498489246" duration="6751000" />
+      <workItem from="1480557626077" duration="862000" />
+      <workItem from="1480588332558" duration="2551000" />
+      <workItem from="1480594869223" duration="23347000" />
+      <workItem from="1480675929284" duration="1844000" />
+      <workItem from="1480904591286" duration="7804000" />
+      <workItem from="1481077381256" duration="28252000" />
+      <workItem from="1481508646644" duration="22975000" />
+      <workItem from="1481618284017" duration="710000" />
+      <workItem from="1481684441595" duration="5683000" />
+      <workItem from="1481771078955" duration="60000" />
+      <workItem from="1481856220114" duration="18191000" />
+      <workItem from="1482315425795" duration="672000" />
+      <workItem from="1482321059793" duration="2698000" />
+      <workItem from="1482324150691" duration="4698000" />
+      <workItem from="1482823671889" duration="1678000" />
+      <workItem from="1482895695210" duration="3419000" />
+      <workItem from="1482981488759" duration="3000" />
+      <workItem from="1482992917553" duration="15000" />
+      <workItem from="1483084629704" duration="406000" />
+      <workItem from="1483603658027" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="175156000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12100213" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22462203" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23667377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23027027" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2345946" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15135135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21945946" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/weibo/Xlweibo.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/xueqiu/XQUrlLib.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/base/HttpClientUtils.java</url>
+          <line>591</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/base/HttpClientUtils.java</url>
+          <line>593</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/base/HttpClientUtils.java</url>
+          <line>595</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/xueqiu/XQUrlLib.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/taoguba/TGBUrlLib.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/qjb/QjbPageProcessor.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/qjb/QjbPageProcessor.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/qjb/QjbPageProcessor.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/services/qjb/QjbPageProcessor.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="132" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/ReplylPageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="118" selection-start-line="26" selection-start-column="105" selection-end-line="26" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/TGBJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_45/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.84598213">
+          <caret line="163" column="20" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/scribe/scribe/1.3.5/scribe-1.3.5.jar!/org/scribe/model/Verifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29685158">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/hoverruan/weiboclient4j/0.4.16/weiboclient4j-0.4.16.jar!/weiboclient4j/params/Uid.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.88">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/hoverruan/weiboclient4j/0.4.16/weiboclient4j-0.4.16.jar!/weiboclient4j/UserService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23088455">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/hoverruan/weiboclient4j/0.4.16/weiboclient4j-0.4.16.jar!/weiboclient4j/WeiboClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6607774">
+          <caret line="117" column="0" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/hoverruan/weiboclient4j/0.4.16/weiboclient4j-0.4.16.jar!/weiboclient4j/params/Id.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19790106">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/hoverruan/weiboclient4j/0.4.16/weiboclient4j-0.4.16.jar!/weiboclient4j/model/Timeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44479004">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/hoverruan/weiboclient4j/0.4.16/weiboclient4j-0.4.16.jar!/weiboclient4j/params/Paging.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.5147744">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/hoverruan/weiboclient4j/0.4.16/weiboclient4j-0.4.16.jar!/weiboclient4j/AbstractService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33281493">
+          <caret line="243" column="84" selection-start-line="243" selection-start-column="78" selection-end-line="243" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/hoverruan/weiboclient4j/0.4.16/weiboclient4j-0.4.16.jar!/weiboclient4j/StatusService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.76">
+          <caret line="76" column="35" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/hoverruan/weiboclient4j/0.4.16/weiboclient4j-0.4.16.jar!/weiboclient4j/model/Status.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.88">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_45/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3452566">
+          <caret line="348" column="23" selection-start-line="348" selection-start-column="23" selection-end-line="348" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/UiDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/piao/ShowJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/Detail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/weibo/StatusComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/weibo/XLJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="76" selection-start-line="75" selection-start-column="76" selection-end-line="75" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XqStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/base/ExchangeHtml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/base/JacksonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/base/PropertyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/base/Md5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="130" selection-start-line="15" selection-start-column="130" selection-end-line="15" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3/httpcore-4.3-sources.jar!/org/apache/http/HttpMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="80" column="12" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/weibo/Xlweibo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_45/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33242506">
+          <caret line="263" column="0" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_45/src.zip!/java/awt/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="585" column="19" selection-start-line="585" selection-start-column="12" selection-end-line="585" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_45/src.zip!/javax/swing/JMenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5286103">
+          <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_45/src.zip!/java/awt/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8692098">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_45/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51226157">
+          <caret line="670" column="20" selection-start-line="670" selection-start-column="11" selection-end-line="670" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/ui/TipsWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/ui/AppWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/ReplyItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.5.3/webmagic-core-0.5.3.jar!/us/codecraft/webmagic/Spider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="11" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="21" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="21" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/xq-pachong:xq-pachong:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>xq-pachong:xq-pachong:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">xq-pachong:xq-pachong:1.0-SNAPSHOT</node>
+            <node x="134.0" y="0.0">com.github.hoverruan:weiboclient4j:jar:0.4.16</node>
+            <node x="273.0" y="0.0">com.github.hoverruan:weiboclient4j:jar:0.4.16/org.scribe:scribe:jar:1.3.5</node>
+            <node x="134.0" y="41.0">us.codecraft:webmagic-core:jar:0.5.3</node>
+            <node x="288.0" y="41.0">us.codecraft:webmagic-core:jar:0.5.3/org.apache.httpcomponents:httpclient:jar:4.3.1</node>
+            <node x="405.0" y="41.0">us.codecraft:webmagic-core:jar:0.5.3/org.apache.httpcomponents:httpclient:jar:4.3.1/org.apache.httpcomponents:httpcore:jar:4.3</node>
+            <node x="405.0" y="82.0">us.codecraft:webmagic-core:jar:0.5.3/org.apache.httpcomponents:httpclient:jar:4.3.1/commons-codec:commons-codec:jar:1.8</node>
+            <node x="288.0" y="123.0">us.codecraft:webmagic-core:jar:0.5.3/com.google.guava:guava:jar:15.0</node>
+            <node x="288.0" y="164.0">us.codecraft:webmagic-core:jar:0.5.3/org.apache.commons:commons-lang3:jar:3.1</node>
+            <node x="288.0" y="205.0">us.codecraft:webmagic-core:jar:0.5.3/us.codecraft:xsoup:jar:0.3.1</node>
+            <node x="387.0" y="205.0">us.codecraft:webmagic-core:jar:0.5.3/us.codecraft:xsoup:jar:0.3.1/org.assertj:assertj-core:jar:1.5.0</node>
+            <node x="288.0" y="246.0">us.codecraft:webmagic-core:jar:0.5.3/org.slf4j:slf4j-log4j12:jar:1.7.6</node>
+            <node x="423.0" y="246.0">us.codecraft:webmagic-core:jar:0.5.3/org.slf4j:slf4j-log4j12:jar:1.7.6/log4j:log4j:jar:1.2.17</node>
+            <node x="288.0" y="287.0">us.codecraft:webmagic-core:jar:0.5.3/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="288.0" y="328.0">us.codecraft:webmagic-core:jar:0.5.3/org.jsoup:jsoup:jar:1.8.3</node>
+            <node x="288.0" y="369.0">us.codecraft:webmagic-core:jar:0.5.3/commons-io:commons-io:jar:2.4</node>
+            <node x="288.0" y="410.0">us.codecraft:webmagic-core:jar:0.5.3/com.jayway.jsonpath:json-path:jar:0.8.1</node>
+            <node x="407.0" y="410.0">us.codecraft:webmagic-core:jar:0.5.3/com.jayway.jsonpath:json-path:jar:0.8.1/net.minidev:json-smart:jar:1.1.1</node>
+            <node x="288.0" y="451.0">us.codecraft:webmagic-core:jar:0.5.3/com.alibaba:fastjson:jar:1.1.37</node>
+            <node x="134.0" y="492.0">us.codecraft:webmagic-extension:jar:0.5.3</node>
+            <node x="317.0" y="492.0">us.codecraft:webmagic-extension:jar:0.5.3/redis.clients:jedis:jar:2.0.0</node>
+            <node x="408.0" y="492.0">us.codecraft:webmagic-extension:jar:0.5.3/redis.clients:jedis:jar:2.0.0/commons-pool:commons-pool:jar:1.5.5</node>
+            <node x="134.0" y="533.0">org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="134.0" y="574.0">org.slf4j:jcl-over-slf4j:jar:1.7.5</node>
+            <node x="134.0" y="615.0">org.slf4j:jul-to-slf4j:jar:1.7.5</node>
+            <node x="134.0" y="656.0">org.apache.httpcomponents:httpmime:jar:4.3.1</node>
+            <node x="134.0" y="697.0">org.apache.httpcomponents:fluent-hc:jar:4.3.6</node>
+            <node x="134.0" y="738.0">org.springframework:spring-web:jar:4.1.3.RELEASE</node>
+            <node x="264.0" y="738.0">org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE</node>
+            <node x="393.0" y="738.0">org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="264.0" y="779.0">org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE</node>
+            <node x="264.0" y="820.0">org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE</node>
+            <node x="264.0" y="861.0">org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE</node>
+            <node x="134.0" y="902.0">org.springframework:spring-webmvc:jar:4.1.3.RELEASE</node>
+            <node x="287.0" y="902.0">org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE</node>
+            <node x="134.0" y="943.0">org.springframework:spring-context-support:jar:4.1.3.RELEASE</node>
+            <node x="134.0" y="984.0">org.springframework:spring-jdbc:jar:4.1.3.RELEASE</node>
+            <node x="265.0" y="984.0">org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE</node>
+            <node x="134.0" y="1025.0">commons-configuration:commons-configuration:jar:1.5</node>
+            <node x="337.0" y="1025.0">commons-configuration:commons-configuration:jar:1.5/commons-lang:commons-lang:jar:2.5</node>
+            <node x="337.0" y="1066.0">commons-configuration:commons-configuration:jar:1.5/commons-digester:commons-digester:jar:1.8</node>
+            <node x="511.0" y="1066.0">commons-configuration:commons-configuration:jar:1.5/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.8.3.fix</node>
+            <node x="134.0" y="1107.0">javax.servlet:servlet-api:jar:2.5</node>
+            <node x="134.0" y="1148.0">org.codehaus.jackson:jackson-mapper-asl:jar:1.9.12</node>
+            <node x="314.0" y="1148.0">org.codehaus.jackson:jackson-mapper-asl:jar:1.9.12/org.codehaus.jackson:jackson-core-asl:jar:1.9.12</node>
+            <node x="134.0" y="1189.0">com.google.code.gson:gson:jar:2.2.4</node>
+            <node x="134.0" y="1230.0">org.springframework:spring-test:jar:4.1.3.RELEASE</node>
+            <node x="134.0" y="1271.0">qunar.common:common-core:jar:8.2.3</node>
+            <node x="280.0" y="1271.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-lang:jar:8.2.3</node>
+            <node x="425.0" y="1271.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-lang:jar:8.2.3/qunar.common:common-concurrent:jar:8.2.3</node>
+            <node x="280.0" y="1312.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3</node>
+            <node x="418.0" y="1312.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final</node>
+            <node x="593.0" y="1312.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="593.0" y="1353.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final/org.jboss.logging:jboss-logging:jar:3.1.1.GA</node>
+            <node x="593.0" y="1394.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final/com.fasterxml:classmate:jar:0.8.0</node>
+            <node x="418.0" y="1435.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/com.fasterxml.jackson.core:jackson-core:jar:2.3.0</node>
+            <node x="418.0" y="1476.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/com.fasterxml.jackson.core:jackson-databind:jar:2.3.0</node>
+            <node x="583.0" y="1476.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/com.fasterxml.jackson.core:jackson-databind:jar:2.3.0/com.fasterxml.jackson.core:jackson-annotations:jar:2.3.0</node>
+            <node x="418.0" y="1517.0">qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/com.googlecode.libphonenumber:libphonenumber:jar:7.0.2</node>
+            <node x="280.0" y="1558.0">qunar.common:common-core:jar:8.2.3/com.codahale.metrics:metrics-core:jar:3.0.2</node>
+            <node x="280.0" y="1599.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7</node>
+            <node x="480.0" y="1599.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7</node>
+            <node x="642.0" y="1599.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2</node>
+            <node x="785.0" y="1599.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2/qunar.tc.qconfig:qconfig-common:jar:1.1.2</node>
+            <node x="785.0" y="1640.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2/com.ning:async-http-client:jar:1.8.11</node>
+            <node x="944.0" y="1640.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2/com.ning:async-http-client:jar:1.8.11/io.netty:netty:jar:3.9.2.Final</node>
+            <node x="480.0" y="1681.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7</node>
+            <node x="621.0" y="1681.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0</node>
+            <node x="804.0" y="1681.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating</node>
+            <node x="957.0" y="1681.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.curator:curator-framework:jar:2.2.0-incubating</node>
+            <node x="1131.0" y="1681.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.curator:curator-framework:jar:2.2.0-incubating/org.apache.curator:curator-client:jar:2.2.0-incubating</node>
+            <node x="957.0" y="1722.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.zookeeper:zookeeper:jar:3.4.5</node>
+            <node x="1084.0" y="1722.0">qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.zookeeper:zookeeper:jar:3.4.5/jline:jline:jar:0.9.94</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final/org.jboss.logging:jboss-logging:jar:3.1.1.GA">
+              <point x="0.0" y="0.0" />
+              <point x="490.5" y="1368.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/org.apache.httpcomponents:httpclient:jar:4.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3" target="qunar.common:common-core:jar:8.2.3/com.codahale.metrics:metrics-core:jar:3.0.2">
+              <point x="0.0" y="0.0" />
+              <point x="192.0" y="1573.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.3.RELEASE" target="org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="com.google.code.gson:gson:jar:2.2.4">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="1204.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/com.google.guava:guava:jar:15.0">
+              <point x="0.0" y="0.0" />
+              <point x="196.0" y="138.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/com.fasterxml.jackson.core:jackson-core:jar:2.3.0">
+              <point x="0.0" y="0.0" />
+              <point x="334.0" y="1450.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3/com.jayway.jsonpath:json-path:jar:0.8.1" target="us.codecraft:webmagic-core:jar:0.5.3/com.jayway.jsonpath:json-path:jar:0.8.1/net.minidev:json-smart:jar:1.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/commons-io:commons-io:jar:2.4">
+              <point x="0.0" y="0.0" />
+              <point x="196.0" y="384.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE" target="org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-aop:jar:4.1.3.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="qunar.common:common-core:jar:8.2.3">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="1286.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="commons-configuration:commons-configuration:jar:1.5/commons-digester:commons-digester:jar:1.8" target="commons-configuration:commons-configuration:jar:1.5/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.8.3.fix">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="commons-configuration:commons-configuration:jar:1.5">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="1040.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final/javax.validation:validation-api:jar:1.1.0.Final">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.springframework:spring-jdbc:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="999.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.slf4j:jcl-over-slf4j:jar:1.7.5">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="589.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.zookeeper:zookeeper:jar:3.4.5" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.zookeeper:zookeeper:jar:3.4.5/jline:jline:jar:0.9.94">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/com.fasterxml.jackson.core:jackson-databind:jar:2.3.0">
+              <point x="0.0" y="0.0" />
+              <point x="334.0" y="1491.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-extension:jar:0.5.3/redis.clients:jedis:jar:2.0.0" target="us.codecraft:webmagic-extension:jar:0.5.3/redis.clients:jedis:jar:2.0.0/commons-pool:commons-pool:jar:1.5.5">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.springframework:spring-context-support:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="958.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/commons-collections:commons-collections:jar:3.2.1">
+              <point x="0.0" y="0.0" />
+              <point x="196.0" y="302.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.slf4j:jul-to-slf4j:jar:1.7.5">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="630.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-jdbc:jar:4.1.3.RELEASE" target="org.springframework:spring-jdbc:jar:4.1.3.RELEASE/org.springframework:spring-tx:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="commons-configuration:commons-configuration:jar:1.5" target="commons-configuration:commons-configuration:jar:1.5/commons-digester:commons-digester:jar:1.8">
+              <point x="0.0" y="0.0" />
+              <point x="220.5" y="1081.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.slf4j:slf4j-api:jar:1.7.5">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="548.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="753.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3">
+              <point x="0.0" y="0.0" />
+              <point x="192.0" y="1327.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="us.codecraft:webmagic-extension:jar:0.5.3">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="507.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="1245.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.common:common-lang:jar:8.2.3" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-lang:jar:8.2.3/qunar.common:common-concurrent:jar:8.2.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/com.alibaba:fastjson:jar:1.1.37">
+              <point x="0.0" y="0.0" />
+              <point x="196.0" y="466.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.zookeeper:zookeeper:jar:3.4.5">
+              <point x="0.0" y="0.0" />
+              <point x="865.5" y="1737.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/org.slf4j:slf4j-log4j12:jar:1.7.6">
+              <point x="0.0" y="0.0" />
+              <point x="196.0" y="261.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.apache.httpcomponents:fluent-hc:jar:4.3.6">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="712.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2/com.ning:async-http-client:jar:1.8.11" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2/com.ning:async-http-client:jar:1.8.11/io.netty:netty:jar:3.9.2.Final">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/com.googlecode.libphonenumber:libphonenumber:jar:7.0.2">
+              <point x="0.0" y="0.0" />
+              <point x="334.0" y="1532.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.3.RELEASE" target="org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-beans:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="184.0" y="794.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/org.apache.commons:commons-lang3:jar:3.1">
+              <point x="0.0" y="0.0" />
+              <point x="196.0" y="179.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2/com.ning:async-http-client:jar:1.8.11">
+              <point x="0.0" y="0.0" />
+              <point x="698.5" y="1655.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/org.jsoup:jsoup:jar:1.8.3">
+              <point x="0.0" y="0.0" />
+              <point x="196.0" y="343.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.codehaus.jackson:jackson-mapper-asl:jar:1.9.12">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="1163.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-common:jar:1.0.7/qunar.tc.qconfig:qconfig-client:jar:1.1.2/qunar.tc.qconfig:qconfig-common:jar:1.1.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="917.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-lang:jar:8.2.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/com.fasterxml.jackson.core:jackson-databind:jar:2.3.0" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/com.fasterxml.jackson.core:jackson-databind:jar:2.3.0/com.fasterxml.jackson.core:jackson-annotations:jar:2.3.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7">
+              <point x="0.0" y="0.0" />
+              <point x="365.0" y="1696.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-extension:jar:0.5.3" target="us.codecraft:webmagic-extension:jar:0.5.3/redis.clients:jedis:jar:2.0.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/us.codecraft:xsoup:jar:0.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="196.0" y="220.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3/us.codecraft:xsoup:jar:0.3.1" target="us.codecraft:webmagic-core:jar:0.5.3/us.codecraft:xsoup:jar:0.3.1/org.assertj:assertj-core:jar:1.5.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="org.apache.httpcomponents:httpmime:jar:4.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="671.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7">
+              <point x="0.0" y="0.0" />
+              <point x="192.0" y="1614.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.github.hoverruan:weiboclient4j:jar:0.4.16" target="com.github.hoverruan:weiboclient4j:jar:0.4.16/org.scribe:scribe:jar:1.3.5">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final" target="qunar.common:common-core:jar:8.2.3/qunar.common:common-api:jar:8.2.3/org.hibernate:hibernate-validator:jar:5.0.1.Final/com.fasterxml:classmate:jar:0.8.0">
+              <point x="0.0" y="0.0" />
+              <point x="490.5" y="1409.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.curator:curator-framework:jar:2.2.0-incubating" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.curator:curator-framework:jar:2.2.0-incubating/org.apache.curator:curator-client:jar:2.2.0-incubating">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="commons-configuration:commons-configuration:jar:1.5" target="commons-configuration:commons-configuration:jar:1.5/commons-lang:commons-lang:jar:2.5">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3/org.slf4j:slf4j-log4j12:jar:1.7.6" target="us.codecraft:webmagic-core:jar:0.5.3/org.slf4j:slf4j-log4j12:jar:1.7.6/log4j:log4j:jar:1.2.17">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3/org.apache.httpcomponents:httpclient:jar:4.3.1" target="us.codecraft:webmagic-core:jar:0.5.3/org.apache.httpcomponents:httpclient:jar:4.3.1/commons-codec:commons-codec:jar:1.8">
+              <point x="0.0" y="0.0" />
+              <point x="331.5" y="97.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="com.github.hoverruan:weiboclient4j:jar:0.4.16">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="javax.servlet:servlet-api:jar:2.5">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="1122.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.codehaus.jackson:jackson-mapper-asl:jar:1.9.12" target="org.codehaus.jackson:jackson-mapper-asl:jar:1.9.12/org.codehaus.jackson:jackson-core-asl:jar:1.9.12">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.3.RELEASE" target="org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-core:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="184.0" y="876.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.3.RELEASE" target="org.springframework:spring-web:jar:4.1.3.RELEASE/org.springframework:spring-context:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="184.0" y="835.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="xq-pachong:xq-pachong:1.0-SNAPSHOT" target="us.codecraft:webmagic-core:jar:0.5.3">
+              <point x="0.0" y="0.0" />
+              <point x="52.0" y="56.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3" target="us.codecraft:webmagic-core:jar:0.5.3/com.jayway.jsonpath:json-path:jar:0.8.1">
+              <point x="0.0" y="0.0" />
+              <point x="196.0" y="425.5" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating" target="qunar.common:common-core:jar:8.2.3/qunar.tc.qtracer:qtracer-instrument-http:jar:1.0.7/qunar.tc.qtracer:qtracer-client:jar:1.0.7/qunar.tc:common-zookeeper:jar:1.1.0/org.apache.curator:curator-recipes:jar:2.2.0-incubating/org.apache.curator:curator-framework:jar:2.2.0-incubating">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.3.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.3.RELEASE/org.springframework:spring-expression:jar:4.1.3.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="us.codecraft:webmagic-core:jar:0.5.3/org.apache.httpcomponents:httpclient:jar:4.3.1" target="us.codecraft:webmagic-core:jar:0.5.3/org.apache.httpcomponents:httpclient:jar:4.3.1/org.apache.httpcomponents:httpcore:jar:4.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-70.0" y="-31.0" />
+          <SelectedNodes>
+            <node>xq-pachong:xq-pachong:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/base/HttpClientUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25892857">
+          <caret line="568" column="31" selection-start-line="568" selection-start-column="31" selection-end-line="568" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XQSayingComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/DetailPageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/ReplylPageProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="118" selection-start-line="26" selection-start-column="105" selection-end-line="26" selection-end-column="118" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/TGBUrlLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/taoguba/TGBJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XueQiuPachong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XueQiuJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="72" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XQTimeLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+          <folding>
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/xueqiu/XQUrlLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/models/DefaultContant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/default.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qunar/piao/MainJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8722787">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>xq-pachong:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xq-pachong</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
