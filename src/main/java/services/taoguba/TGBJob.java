@@ -40,7 +40,7 @@ public class TGBJob implements Runnable {
         String[] ids = uids.split(",");
 
         for (int i = 0; i < ids.length; i++) {
-            String url = "http://www.taoguba.com.cn/moreReply?userID=" + ids[i];
+            String url = "https://www.taoguba.com.cn/moreReply?userID=" + ids[i];
             ReplylPageProcessor pachong = new ReplylPageProcessor();
 
             pachongs.put(url, pachong);

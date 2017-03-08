@@ -15,7 +15,7 @@ import java.util.Map;
 public class TGBUrlLib {
     public static String login(String userName, String psw) {
         String cookie = "";
-        String url = "http://www.taoguba.com.cn/newLogin";
+        String url = "https://www.taoguba.com.cn/newLogin";
 
         Map<String, String> headers = Maps.newHashMap();
         headers.put("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8");
@@ -25,17 +25,17 @@ public class TGBUrlLib {
         headers.put("Connection", "keep-alive");
         headers.put("Content-Type", "application/x-www-form-urlencoded");
         headers.put("Host", "www.taoguba.com.cn");
-        headers.put("Origin", "http://www.taoguba.com.cn");
-        headers.put("Referer", "http://www.taoguba.com.cn/gotoLogin");
+        headers.put("Origin", "https://www.taoguba.com.cn");
+        headers.put("Referer", "https://www.taoguba.com.cn/gotoLogin");
         headers.put("Upgrade-Insecure-Requests", "1");
         headers.put("User-Agent", "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36");
 
         Map<String, String> maps = Maps.newHashMap();
         maps.put("pwdlevel", "Y");
         maps.put("loginType", "1");
-        maps.put("save", "Y");
         maps.put("userName", userName);
         maps.put("pwd", psw);
+        maps.put("save", "Y");
 
         HttpResponse response = HttpClientUtils.postMapAndHeaderForResponse(url, headers, maps);
         Header[] hs = response.getHeaders("set-cookie");
